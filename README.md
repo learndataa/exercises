@@ -2,7 +2,7 @@
 This is a work in progress. <br>
 
 #### Description:
-Exercise for the videos posted on the YouTube channel 'learndataa' are posted here. The exercise was created using Jupyter Notebook running Python 3.7. Hope you enjoy the exercises. Thank you for your time.
+Exercises for the videos posted on the YouTube channel 'learndataa' are posted here. The exercises were created using Jupyter Notebook running Python 3.7. Hope you enjoy the exercises. Thank you for your time.
 
 #### Instructions to download the exercise Jupyter Notebook (.ipynb) file:
 * Click on the file name (for example: p3_exercise_basic_data_types.ipynb)
