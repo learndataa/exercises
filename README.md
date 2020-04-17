@@ -12,5 +12,5 @@ Exercises for the videos posted on the YouTube channel 'learndataa' are posted h
 
 #### Exercise 1:
 <b>Video name:</b> For Beginners: 3. Basic data types in Python <br>
-<b>Exercise filename:</b> p3_exercise_basic_data_types.ipynb <br>
+<b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p3_exercise_basic_data_types.ipynb">p3_exercise_basic_data_types.ipynb </a><br>
 <b>Video:</b> https://www.youtube.com/channel/UCzUpHQAfj3ulmJkTAfBtXLw/ <br><br>
