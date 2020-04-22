@@ -20,3 +20,9 @@ Exercises for the videos posted on the YouTube channel 'learndataa' are posted h
 <b>Video name:</b> For Beginners: 4. Lists in Python <br>
 <b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p4_lists_EX.ipynb">p3_exercise_basic_data_types.ipynb </a><br>
 <b>Video:</b>https://www.youtube.com/watch?v=PyTHKK-5tDs&t=616s<br><br>
+
+
+#### Exercise 3:
+<b>Video name:</b>For Beginners: 5. Arrays (Part I) in Python<br>
+<b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p5_arrays_part_1_EX.ipynb"</a><br>
+<b>Video:</b>https://www.youtube.com/watch?v=KU-1GiTGV9Y&t=1749s<br><br>
