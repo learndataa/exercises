@@ -30,5 +30,13 @@ Exercises for the videos posted on the YouTube channel 'learndataa' are posted h
 
 #### Exercise 4:
 <b>Video name:</b>For Beginners: 6. Arrays (Part II) in Python<br>
-<b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p6_arrays_part_2_EX.ipynb"</a><br>
+<b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p7_tuples_EX.ipynb"</a><br>
 <b>Video:</b>https://www.youtube.com/watch?v=ysCrdCv-_eE&t=1017s<br><br>
+
+
+#### Exercise 5:
+<b>Video name:</b>For Beginners: 7. Tuple in Python<br>
+<b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p6_arrays_part_2_EX.ipynb"</a><br>
+<b>Video:</b>https://www.youtube.com/watch?v=g3AFLwy5_mo<br><br>
+
+
