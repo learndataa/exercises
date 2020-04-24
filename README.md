@@ -26,3 +26,9 @@ Exercises for the videos posted on the YouTube channel 'learndataa' are posted h
 <b>Video name:</b>For Beginners: 5. Arrays (Part I) in Python<br>
 <b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p5_arrays_part_1_EX.ipynb"</a><br>
 <b>Video:</b>https://www.youtube.com/watch?v=KU-1GiTGV9Y&t=1749s<br><br>
+
+
+#### Exercise 4:
+<b>Video name:</b>For Beginners: 6. Arrays (Part II) in Python<br>
+<b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p6_arrays_part_2_EX.ipynb"</a><br>
+<b>Video:</b>https://www.youtube.com/watch?v=ysCrdCv-_eE&t=1017s<br><br>
