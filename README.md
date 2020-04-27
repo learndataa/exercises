@@ -44,3 +44,9 @@ Exercises for the videos posted on the YouTube channel 'learndataa' are posted h
 <b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p8_dictionary_EX.ipynb"</a><br>
 <b>Video:</b>https://www.youtube.com/watch?v=JrYMNQv8hm0&t=76s<br><br>
 
+
+#### Exercise 7:
+<b>Video name:</b>For Beginners: 11. Plots in Python using Matplotlib<br>
+<b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p8_dictionary_EX.ipynb"</a><br>
+<b>Video:</b>https://www.youtube.com/watch?v=swddvW2sgps&t=27s<br><br>
+
