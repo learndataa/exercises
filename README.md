@@ -39,4 +39,8 @@ Exercises for the videos posted on the YouTube channel 'learndataa' are posted h
 <b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p7_tuples_EX.ipynb"</a><br>
 <b>Video:</b>https://www.youtube.com/watch?v=g3AFLwy5_mo&t=589s<br><br>
 
+#### Exercise 6:
+<b>Video name:</b>For Beginners: 8. Dictionary in Python<br>
+<b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p8_dictionary_EX.ipynb"</a><br>
+<b>Video:</b>https://www.youtube.com/watch?v=JrYMNQv8hm0&t=76s<br><br>
 
