@@ -50,3 +50,9 @@ Exercises for the videos posted on the YouTube channel 'learndataa' are posted h
 <b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p11_matplotlib_EX.ipynb"</a><br>
 <b>Video:</b>https://www.youtube.com/watch?v=swddvW2sgps&t=27s<br><br>
 
+
+
+#### Exercise 8:
+<b>Video name:</b>For Beginners: 12. Pandas (Part 1) in Python<br>
+<b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p12_pandas_part_1_EX.ipynb"</a><br>
+<b>Video:</b>https://www.youtube.com/watch?v=jC6hvLW6feQ&t=26s<br><br>
