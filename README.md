@@ -59,9 +59,13 @@ Exercises for the videos posted on the YouTube channel 'learndataa' are posted h
 
 
 
-
-
 #### Exercise 9:
 <b>Video name:</b>For Beginners: 13. Pandas (Part 2) .loc, .iloc in Python<br>
 <b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p13_pandas_part_2_EX.ipynb"</a><br>
 <b>Video:</b>https://www.youtube.com/watch?v=pQY6gy_p_cY<br><br>
+
+
+#### Exercise 10:
+<b>Video name:</b>For Beginners: 14. Pandas (Part 3) Sampling a Series and DataFrame in Python<br>
+<b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p14_pandas_part_3_EX.ipynb"</a><br>
+<b>Video:</b>https://www.youtube.com/watch?v=LS75z5Aia1U&t=32s<br><br>
