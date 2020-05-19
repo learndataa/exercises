@@ -75,3 +75,10 @@ Exercises for the videos posted on the YouTube channel 'learndataa' are posted h
 <b>Video name:</b>For Beginners: 15. Pandas (Part 4): Accessing data from Series/DataFrames in Python: Booleans etc<br>
 <b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p15_pandas_part_4_EX.ipynb"</a><br>
 <b>Video:</b>https://www.youtube.com/watch?v=dP2ubSaspxc&t=716s<br><br>
+
+
+#### Exercise 12:
+<b>Video name:</b>For Beginners: 16. Pandas (Part 5) isin(), where(), and mask() in Python<br>
+<b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p16_pandas_part_5_EX.ipynb"</a><br>
+<b>Video:</b>https://www.youtube.com/watch?v=xe6tPzXlINs&t=132s<br><br>
+
