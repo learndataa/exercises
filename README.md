@@ -88,3 +88,9 @@ Exercises for the videos posted on the YouTube channel 'learndataa' are posted h
 <b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p17_pandas_part_6_EX.ipynb"</a><br>
 <b>Video:</b>https://www.youtube.com/watch?v=5OasYLGoggE&t=5s<br><br>
 
+
+#### Exercise 14:
+<b>Video name:</b>For Beginners: 18. Pandas (Part 7) Index for DataFrames in Python<br>
+<b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p18_pandas_part_7_EX.ipynb"</a><br>
+<b>Video:</b>https://www.youtube.com/watch?v=Aklo1bRodcI<br><br>
+
