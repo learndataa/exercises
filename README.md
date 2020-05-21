@@ -1,5 +1,5 @@
 # exercises
-Please like, share and subscribe to my YouTube channel <b>learndataa:</b>https://www.youtube.com/channel/UCzUpHQAfj3ulmJkTAfBtXLw<br><br> if you find the exercises and videos helpful. Thank you. I try to put in a lot of effort in creating these exercises as well. And likes would tell me that you enjoy working through the questions.<br>
+Please like, share and subscribe to my YouTube channel <a href="https://www.youtube.com/channel/UCzUpHQAfj3ulmJkTAfBtXLw">learndataa</a> if you find the exercises and videos helpful. Thank you. I try to put in a lot of effort in creating these exercises as well. And likes would tell me that you enjoy working through the questions.<br>
 
 #### Description:
 Exercises for the videos posted on the YouTube channel 'learndataa' are posted here. The exercises were created using Jupyter Notebook running Python 3.7. Hope you enjoy the exercises. Thank you for your time.
