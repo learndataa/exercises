@@ -1,5 +1,5 @@
 # exercises
-This is a work in progress. <br>
+Please like, share and subscribe to my YouTube channel <b>learndataa:</b>https://www.youtube.com/channel/UCzUpHQAfj3ulmJkTAfBtXLw<br><br> if you find the exercises and videos helpful. Thank you. I try to put in a lot of effort in creating these exercises as well. And likes would tell me that you enjoy working through the questions.<br>
 
 #### Description:
 Exercises for the videos posted on the YouTube channel 'learndataa' are posted here. The exercises were created using Jupyter Notebook running Python 3.7. Hope you enjoy the exercises. Thank you for your time.
@@ -93,4 +93,11 @@ Exercises for the videos posted on the YouTube channel 'learndataa' are posted h
 <b>Video name:</b>For Beginners: 18. Pandas (Part 7) Index for DataFrames in Python<br>
 <b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p18_pandas_part_7_EX.ipynb"</a><br>
 <b>Video:</b>https://www.youtube.com/watch?v=Aklo1bRodcI<br><br>
+
+
+
+#### Exercise 15:
+<b>Video name:</b>For Beginners: 20. Pandas (Part 8) Concatenate, Append in Python<br>
+<b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p20_pandas_part_8_EX.ipynb"</a><br>
+<b>Video:</b>https://www.youtube.com/watch?v=gOPMJ1iuLzk&t=811s<br><br>
 
