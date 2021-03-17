@@ -101,3 +101,14 @@ Exercises for the videos posted on the YouTube channel 'learndataa' are posted h
 <b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p20_pandas_part_8_EX.ipynb"</a><br>
 <b>Video:</b>https://www.youtube.com/watch?v=gOPMJ1iuLzk&t=811s<br><br>
 
+
+#### Exercise 15:
+
+
+
+
+#### Exercise 16:
+<b>Video name:</b>For Beginners: 22. Pandas (Part 10) Pivot, stack, unstack in Python<br>
+<b>Exercise filename:</b> <a href="https://github.com/learndataa/exercises/blob/master/p22_pandas_part_10_EX.ipynb"</a><br>
+<b>Video:</b>https://www.youtube.com/watch?v=vHuy8ht6nXU&ab_channel=learndataa<br><br>
+
